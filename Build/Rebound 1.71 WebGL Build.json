@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Rebound",
+"productVersion": "0.1",
+"dataUrl": "Rebound 1.71 WebGL Build.data.unityweb",
+"wasmCodeUrl": "Rebound 1.71 WebGL Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rebound 1.71 WebGL Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.25f1"
+}
